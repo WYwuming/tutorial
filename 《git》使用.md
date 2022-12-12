@@ -66,6 +66,19 @@ $ git pull origin master
 
 ③再次push远程数据库
 
+④用log命令来确认数据库的历史记录是否准确
+
+```
+$ git log --graph --oneline
+*   d845b81 合并
+|\
+| * 4c01823 添加pull的说明
+* | 95f15c9 添加commit的说明
+|/
+* 3da09c1 添加add的说明
+* ac56e47 first commit
+```
+
 
 
 
