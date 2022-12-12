@@ -87,7 +87,9 @@ $ git log --graph --oneline
 add 把变更录入到索引中
 ```
 
-
+```
+commit 记录索引的状态
+```
 
 
 
