@@ -83,7 +83,9 @@ $ git log --graph --oneline
 
 ## 二、Git高级
 
-
+```
+add 把变更录入到索引中
+```
 
 
 
