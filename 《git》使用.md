@@ -12,4 +12,5 @@ https://github.com/WYwuming/tutorial.git
 
 ```c
 pull 取得远端数据库的内容
+commit 记录索引的状态
 ```
